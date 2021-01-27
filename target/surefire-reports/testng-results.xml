@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suiteb" duration-ms="94" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+    <groups>
+    </groups>
+    <test name="TestBB" duration-ms="94" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+      <class name="suiteb.TestBB">
+        <test-method status="PASS" signature="befrClass()[pri:0, instance:suiteb.TestBB@3c0ecd4b]" name="befrClass" is-config="true" duration-ms="32" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrClass -->
+        <test-method status="PASS" signature="TestBB()[pri:0, instance:suiteb.TestBB@3c0ecd4b]" name="TestBB" duration-ms="32" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBB -->
+        <test-method status="PASS" signature="befrMethod()[pri:0, instance:suiteb.TestBB@3c0ecd4b]" name="befrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrMethod -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:suiteb.TestBB@3c0ecd4b]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:suiteb.TestBB@3c0ecd4b]" name="aftrClass" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+      </class> <!-- suiteb.TestBB -->
+    </test> <!-- TestBB -->
+    <test name="TestB" duration-ms="78" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+      <class name="suiteb.TestB">
+        <test-method status="PASS" signature="befrClass()[pri:0, instance:suiteb.TestB@464bee09]" name="befrClass" is-config="true" duration-ms="32" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrClass -->
+        <test-method status="PASS" signature="befrMethod()[pri:0, instance:suiteb.TestB@464bee09]" name="befrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrMethod -->
+        <test-method status="PASS" signature="TestB()[pri:0, instance:suiteb.TestB@464bee09]" name="TestB" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestB -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:suiteb.TestB@464bee09]" name="aftrClass" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:suiteb.TestB@464bee09]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+      </class> <!-- suiteb.TestB -->
+    </test> <!-- TestB -->
+  </suite> <!-- suiteb -->
+  <suite name="SuiteA" duration-ms="78" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+    <groups>
+    </groups>
+    <test name="TestB" duration-ms="78" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+      <class name="suitea.TestAA">
+        <test-method status="PASS" signature="befrClass()[pri:0, instance:suitea.TestAA@53b32d7]" name="befrClass" is-config="true" duration-ms="32" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrClass -->
+        <test-method status="PASS" signature="TestAA()[pri:0, instance:suitea.TestAA@53b32d7]" name="TestAA" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestAA -->
+        <test-method status="PASS" signature="befrMethod()[pri:0, instance:suitea.TestAA@53b32d7]" name="befrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrMethod -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:suitea.TestAA@53b32d7]" name="aftrClass" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:suitea.TestAA@53b32d7]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+      </class> <!-- suitea.TestAA -->
+    </test> <!-- TestB -->
+    <test name="TestA" duration-ms="78" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+      <class name="suitea.TestA">
+        <test-method status="PASS" signature="befrClass()[pri:0, instance:suitea.TestA@5b275dab]" name="befrClass" is-config="true" duration-ms="32" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrClass -->
+        <test-method status="PASS" signature="TestA()[pri:0, instance:suitea.TestA@5b275dab]" name="TestA" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestA -->
+        <test-method status="PASS" signature="befrMethod()[pri:0, instance:suitea.TestA@5b275dab]" name="befrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befrMethod -->
+        <test-method status="PASS" signature="aftrClass()[pri:0, instance:suitea.TestA@5b275dab]" name="aftrClass" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrClass -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:suitea.TestA@5b275dab]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2021-01-12T20:55:18 IST" finished-at="2021-01-12T20:55:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+      </class> <!-- suitea.TestA -->
+    </test> <!-- TestA -->
+  </suite> <!-- SuiteA -->
+</testng-results>
