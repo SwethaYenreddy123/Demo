@@ -23,6 +23,7 @@ public class BaseClass {
 	public void TestA2()
 	{
 		System.out.println("BeforeMethod");
+		System.out.println("BeforeMethod-test tortoise git");
 	}
 	@AfterMethod
 	public void TestA3()
