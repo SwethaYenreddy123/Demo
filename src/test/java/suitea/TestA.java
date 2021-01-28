@@ -11,5 +11,6 @@ public class TestA extends BaseClass{
 	public void TestA()
 	{
 		System.out.println("TestA");
+		System.out.println("test GIT Test");
 	}
 }
